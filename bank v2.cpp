@@ -7,7 +7,6 @@
 #include<cstring>
 #include<cstdlib> //for c_str() function that used in copy function
 #include<sstream>
-#include<time.h>//for automatic date
 
 
 using namespace std;
